@@ -1,0 +1,5 @@
+INFO:gurobipy:Set parameter WLSAccessID
+INFO:gurobipy:Set parameter WLSSecret
+INFO:gurobipy:Set parameter LicenseID to value 2676308
+INFO:gurobipy:Academic license 2676308 - for non-commercial use only - registered to bc___@gatech.edu
+INFO:gurobipy:Warning: environment still referenced so free is deferred (Continue to use WLS)
